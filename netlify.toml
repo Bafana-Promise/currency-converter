@@ -1,6 +1,6 @@
 [build]
 command = "ng build --configuration production"
-publish = "dist/paramount-app/browser"
+publish = "dist/currency-converter-ui"
 
 [[redirects]]
 from = "/*"
